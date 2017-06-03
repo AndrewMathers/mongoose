@@ -9,6 +9,7 @@ items:
   - { name: api_http.js }
   - { name: api_i2c.js }
   - { name: api_log.js }
+  - { name: api_mqtt.js }
   - { name: api_neopixel.js }
   - { name: api_net.js }
   - { name: api_rpc.js }
